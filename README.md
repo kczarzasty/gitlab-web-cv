@@ -1,2 +1,1 @@
-# res-web-kevin
-.pdf accessed on web
+# res-web-kevin accessed on web
